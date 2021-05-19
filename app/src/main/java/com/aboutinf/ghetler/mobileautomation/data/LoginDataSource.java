@@ -24,5 +24,6 @@ public class LoginDataSource {
     }
     public void logout() {
         // TODO: revoke authentication
+        // the test should be
     }
 }
